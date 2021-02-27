@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f19be07-4048-452b-87ea-f1cac344a480" name="Default Changelist" comment="" />
+    <list default="true" id="3f19be07-4048-452b-87ea-f1cac344a480" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,12 +131,24 @@
       <workItem from="1613830085970" duration="945000" />
       <workItem from="1613831080692" duration="39000" />
       <workItem from="1613910424983" duration="8526000" />
-      <workItem from="1614419821356" duration="678000" />
+      <workItem from="1614419821356" duration="2590000" />
+      <workItem from="1614422444851" duration="2146000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="1657" y="860" key="#ESLint" timestamp="1612522766816">
@@ -133,22 +167,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1411" y="642" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612605094599" />
-    <state width="1898" height="328" key="GridCell.Tab.0.bottom" timestamp="1614419830955">
+    <state width="1898" height="328" key="GridCell.Tab.0.bottom" timestamp="1614424615897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614419830955" />
-    <state width="1898" height="328" key="GridCell.Tab.0.center" timestamp="1614419830955">
+    <state width="1898" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614424615897" />
+    <state width="1898" height="328" key="GridCell.Tab.0.center" timestamp="1614424615897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="328" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614419830955" />
-    <state width="1898" height="328" key="GridCell.Tab.0.left" timestamp="1614419830955">
+    <state width="1898" height="328" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614424615897" />
+    <state width="1898" height="328" key="GridCell.Tab.0.left" timestamp="1614424615897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="328" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614419830955" />
-    <state width="1898" height="328" key="GridCell.Tab.0.right" timestamp="1614419830955">
+    <state width="1898" height="328" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614424615897" />
+    <state width="1898" height="328" key="GridCell.Tab.0.right" timestamp="1614424615897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="328" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614419830955" />
+    <state width="1898" height="328" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614424615897" />
     <state x="607" y="238" key="run.anything.popup" timestamp="1612439400850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
