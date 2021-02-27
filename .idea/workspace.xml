@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f19be07-4048-452b-87ea-f1cac344a480" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n9pckdTQHUNdErTTE9CLXKBI1s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Users" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Саргсян\WebstormProjects\untitled\src\components\Users" />
+      <recent name="C:\Users\Саргсян\WebstormProjects\untitled\src\components\common\Paginator" />
+      <recent name="C:\Users\Саргсян\WebstormProjects\untitled\src\components\Profile\ProfileStatus" />
+      <recent name="C:\Users\Саргсян\WebstormProjects\untitled\src\redux" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Саргсян\WebstormProjects\untitled\src\components\common\Paginator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.test" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f19be07-4048-452b-87ea-f1cac344a480" name="Default Changelist" comment="" />
+      <created>1610812244438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610812244438</updated>
+      <workItem from="1610812245780" duration="69000" />
+      <workItem from="1610962474235" duration="224000" />
+      <workItem from="1610962842384" duration="1121000" />
+      <workItem from="1612439376727" duration="12683000" />
+      <workItem from="1612515600103" duration="23602000" />
+      <workItem from="1612603479772" duration="10203000" />
+      <workItem from="1612687374926" duration="14025000" />
+      <workItem from="1612776976730" duration="5504000" />
+      <workItem from="1612862329400" duration="19637000" />
+      <workItem from="1612900016872" duration="2130000" />
+      <workItem from="1612950351478" duration="12886000" />
+      <workItem from="1613665692338" duration="979000" />
+      <workItem from="1613728630807" duration="4460000" />
+      <workItem from="1613830085970" duration="945000" />
+      <workItem from="1613831080692" duration="39000" />
+      <workItem from="1613910424983" duration="8526000" />
+      <workItem from="1614419821356" duration="678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1657" y="860" key="#ESLint" timestamp="1612522766816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1657" y="860" key="#ESLint/0.0.1920.1040@0.0.1920.1040" timestamp="1612522766816" />
+    <state x="735" y="395" key="#Inspections" timestamp="1612693827983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="395" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1612693827983" />
+    <state x="405" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612439463421">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="405" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612439463421" />
+    <state x="1411" y="642" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612605094599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1411" y="642" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612605094599" />
+    <state width="1898" height="328" key="GridCell.Tab.0.bottom" timestamp="1614419830955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614419830955" />
+    <state width="1898" height="328" key="GridCell.Tab.0.center" timestamp="1614419830955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="328" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614419830955" />
+    <state width="1898" height="328" key="GridCell.Tab.0.left" timestamp="1614419830955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="328" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614419830955" />
+    <state width="1898" height="328" key="GridCell.Tab.0.right" timestamp="1614419830955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="328" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614419830955" />
+    <state x="607" y="238" key="run.anything.popup" timestamp="1612439400850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="607" y="238" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612439400850" />
+    <state x="725" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1612621293824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="725" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612621293824" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/redux/redux-store.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

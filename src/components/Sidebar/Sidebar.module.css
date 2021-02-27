@@ -1,0 +1,42 @@
+.nav{
+    grid-area: n;
+    background-color: #F1E3F6;
+    padding: 20px;
+}
+.item{
+    margin-bottom: 10px;
+}
+.item a {
+color: black;
+text-decoration: none;
+margin-bottom: 20px;
+}
+
+.item a.activeLink{
+    color: blue;
+}
+
+.bigItem{
+    padding-top:20px;
+}
+
+.bigItem a {
+color: brown;
+text-decoration: none;
+font-size: 30px;
+
+}
+
+.bigItem a.activeLink{
+    color: blue;
+}
+
+.bigItem img{
+    width: 30%;
+    height: 50px;
+    border-radius: 35px;
+}
+
+.span a{
+    font-size: 10px;
+}
