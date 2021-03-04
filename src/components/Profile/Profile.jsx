@@ -15,12 +15,3 @@ const Profile = (props) => {
 }
 
 export default Profile
-
-// {/*/*posts={props.profilesPage.posts}
-// {/*   newPostText={props.profilesPage.newPostText}
-// {/*   dispatch={props.dispatch}*/
-//
-//
-//
-//     {/* // addPosts={props.addPosts}*/}
-//     {/* // updatedNewText={props.updatedNewText}*/}
