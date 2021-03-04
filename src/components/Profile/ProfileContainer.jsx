@@ -28,43 +28,17 @@ class ProfileContainer extends React.Component {
             this.refreshProfile()
         }
     }
-
-        /*        getProfile(userId) .then(response => {
-                    this.props.setUserProfile(response.data)
-                    this.props.setUserName(response.data)
-                    this.props.lookingAJob(response.data)
-
-                })
-                axios.get(`https://social-network.samuraijs.com/api/1.0/profile/` + userId)
-                    .then(response => {
-                        this.props.setUserProfile(response.data)
-                        this.props.setUserName(response.data)
-                        this.props.lookingAJob(response.data)
-
-                    })*/
     render() {
         return (
             <Profile
                 isOwner = {!this.props.match.params.userId}
                 {...this.props}
                  profileData={this.props.profileData}
-                     // fullName={this.props.fullName}
-                     // lookingForAJob={this.props.lookingForAJob}
-                     // status={this.props.status}
-                     // updateStatus={this.props.updateStatus}*/
             />
 
         )
     }
 }
-
-// let AuthRedirectComponent = withAuthRedirect(ProfileContainer)
-
-/*let mapStateToPropsForRedirect = (state) => ({
-    isAuth: state.auth.isAuth
-})*/
-
-
 
 let mapStateToProps = (state) => ({
     profileData: state.profilesPage.profileData,
@@ -74,24 +48,10 @@ let mapStateToProps = (state) => ({
     isFetching: state.profilesPage.isFetching
 })
 
-/*let withUrlDataContainerComponent = withRouter(AuthRedirectComponent)*/
-
 
 export default compose(
     connect(mapStateToProps, {profileInfo,getStatus,updateStatus}),
     withRouter,withAuthRedirect)
 (ProfileContainer)
 
-/*
-export default connect(mapStateToProps, {/!*setUserProfile,setUserName,lookingAJob,*!/getUserProfile})(withUrlDataContainerComponent)
-*/
 
-/*posts={props.profilesPage.posts}
-  newPostText={props.profilesPage.newPostText}
-  dispatch={props.dispatch}*/
-
-
-// addPosts={props.addPosts}
-// updatedNewText={props.updatedNewText}
-/*
-/>*/
